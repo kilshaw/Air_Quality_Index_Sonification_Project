@@ -6,13 +6,13 @@ Puredata Sonification.
 
 How to run:
 
-The main puredata patch for the uk is airqualityAPIdefined.py.
+The main python script for the uk is airqualityAPIdefined.py.
 
 Open the python script and run/ execute. Open the puredata patch and select a british city.
 Data back- Suplphur dioxide, Nitrogen Dioxide, Ozone, Carbom, Particulate matter 10/25.
 Harmonicity calculator in frequency modulation domain.
 
-
+Some puredata dependencies: moocow, mrpeach
 Simon Kilshaw
 simon.kilshaw@uwtsd.ac.uk
 
